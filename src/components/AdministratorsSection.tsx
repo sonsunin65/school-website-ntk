@@ -66,10 +66,10 @@ const AdministratorsSection = () => {
         <div className="text-center max-w-2xl mx-auto mb-16">
           <span className="inline-block text-accent font-semibold mb-4">ผู้บริหาร</span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-6">
-            <span className="text-primary">คณะผู้บริหาร</span>โรงเรียน
+            <span className="text-primary">ผู้บริหาร</span>โรงเรียน
           </h2>
           <p className="text-muted-foreground text-lg">
-            ทีมผู้บริหารที่มีวิสัยทัศน์และความมุ่งมั่นในการพัฒนาการศึกษาให้ก้าวหน้า
+            วิสัยทัศน์และความมุ่งมั่นในการพัฒนาการศึกษาให้ก้าวหน้า
           </p>
         </div>
 
