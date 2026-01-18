@@ -59,6 +59,14 @@ const teachingStaff = [
     experience: '5 ปี',
     color: 'from-indigo-500 to-indigo-400',
   },
+  {
+    name: 'นางสาวลักษณา บุญโส',
+    position: 'กลุ่มสาระการเรียนรู้คณิตศาตร์',
+    subject: 'คณิตศาสตร์',
+    education: 'ปริญญาตรี คณิตศาสตร์',
+    experience: '3 ปี',
+    color: 'from-teal-500 to-teal-400',
+  },
 ];
 
 const supportStaff = [
