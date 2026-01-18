@@ -4,19 +4,19 @@ import { Mail, Phone, GraduationCap, Award, Users } from 'lucide-react';
 
 const teachingStaff = [
   {
-    name: 'นายสมชาย ใจดีดี',
-    position: 'หัวหน้ากลุ่มสาระการเรียนรู้ภาษาไทย',
-    subject: 'ภาษาไทย',
-    education: 'ปริญญาโท ภาษาไทย',
-    experience: '15 ปี',
+    name: 'นายอดิศักดิ์ นรินทร์รัมย์',
+    position: 'หัวหน้ากลุ่มงานวิชาการ',
+    subject: 'คอมพิวเตอร์',
+    education: 'ปริญญาโท เทคโนโลยี',
+    experience: '10 ปี',
     color: 'from-blue-500 to-blue-400',
   },
   {
-    name: 'นางสาวสุภา รักเรียน',
-    position: 'หัวหน้ากลุ่มสาระการเรียนรู้คณิตศาสตร์',
-    subject: 'คณิตศาสตร์',
-    education: 'ปริญญาโท คณิตศาสตร์ศึกษา',
-    experience: '12 ปี',
+    name: 'นางนันชนาพร วรคำ',
+    position: 'หัวหน้ากลุ่มงานงบประมาณ',
+    subject: 'ปฐมวัย',
+    education: 'ปริญญาโท บริหารการศึกษา',
+    experience: '15 ปี',
     color: 'from-green-500 to-green-400',
   },
   {
