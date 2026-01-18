@@ -477,7 +477,7 @@ const Enrollment = () => {
             สมัครเรียนออนไลน์
           </h1>
           <p className="text-card/80 text-lg max-w-2xl mx-auto mb-6">
-            ปีการศึกษา {settings.academic_year} | รับสมัครนักเรียนชั้น ม.1 และ ม.4
+            ปีการศึกษา {settings.academic_year} | รับสมัครนักเรียนชั้น อ.3 และ ม.1
           </p>
 
           {/* Search existing admission */}
