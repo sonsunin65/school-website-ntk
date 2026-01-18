@@ -17,7 +17,7 @@ const AboutSection = () => {
     },
     {
       icon: Heart,
-      title: 'ค่านิยม',
+      title: 'อัตลักษณ์',
       description: settings.school_values,
     },
     {
