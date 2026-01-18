@@ -59,14 +59,6 @@ const teachingStaff = [
     experience: '11 ปี',
     color: 'from-indigo-500 to-indigo-400',
   },
-  {
-    name: 'นางสาวสังคม สันติสุข',
-    position: 'หัวหน้ากลุ่มสาระการเรียนรู้สังคมศึกษา',
-    subject: 'สังคมศึกษา',
-    education: 'ปริญญาโท สังคมศาสตร์',
-    experience: '13 ปี',
-    color: 'from-amber-500 to-amber-400',
-  },
 ];
 
 const supportStaff = [
