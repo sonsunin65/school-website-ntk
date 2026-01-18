@@ -93,7 +93,7 @@ const defaultSettings: SchoolSettings = {
     stat_students: '2,500+',
     stat_students_label: 'นักเรียน',
     stat_university: '98%',
-    stat_university_label: 'บุคลากร',
+    stat_university_label: 'ผ่านเข้ามหาวิทยาลัย',
     stat_years: '50+',
     stat_years_label: 'ปีแห่งความเป็นเลิศ',
     about_title_1: 'สถาบันการศึกษาที่',
