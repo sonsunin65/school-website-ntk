@@ -20,19 +20,19 @@ const teachingStaff = [
     color: 'from-green-500 to-green-400',
   },
   {
-    name: 'นายวิทยา ฉลาดคิด',
-    position: 'หัวหน้ากลุ่มสาระการเรียนรู้วิทยาศาสตร์',
-    subject: 'วิทยาศาสตร์',
-    education: 'ปริญญาโท วิทยาศาสตร์ศึกษา',
-    experience: '10 ปี',
+    name: 'นายสุรชัย บูรณ์เจริญ',
+    position: 'หัวหน้ากลุ่มบริหารงานบุคคล',
+    subject: 'การงานพื้นฐานอาชีพ',
+    education: 'ปริญญาตรี',
+    experience: '20 ปี',
     color: 'from-purple-500 to-purple-400',
   },
   {
-    name: 'นางภาวินี สุขสม',
-    position: 'หัวหน้ากลุ่มสาระการเรียนรู้ภาษาต่างประเทศ',
-    subject: 'ภาษาอังกฤษ',
-    education: 'ปริญญาโท ภาษาอังกฤษ',
-    experience: '14 ปี',
+    name: 'นางน้ำทิพย์ วริศโรจนชัย',
+    position: 'หัวหน้ากลุ่มบริหารทั่วไป',
+    subject: 'ภาษาไทย',
+    education: 'ปริญญาโท บริหารการศึกษา',
+    experience: '21 ปี',
     color: 'from-red-500 to-red-400',
   },
   {
@@ -158,7 +158,7 @@ const Staff = () => {
             <div className="text-center max-w-2xl mx-auto mb-12">
               <span className="inline-block text-accent font-semibold mb-4">ครูผู้สอน</span>
               <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-                หัวหน้ากลุ่มสาระการเรียนรู้
+                หัวหน้ากลุ่มงาน
               </h2>
               <p className="text-muted-foreground">
                 ครูผู้เชี่ยวชาญในแต่ละสาขาวิชา พร้อมถ่ายทอดความรู้อย่างมีคุณภาพ
