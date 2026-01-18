@@ -4,7 +4,7 @@ import { Mail, Phone, GraduationCap, Award, Users } from 'lucide-react';
 
 const teachingStaff = [
   {
-    name: 'นายสมชาย ใจดี',
+    name: 'นายสมชาย ใจดีดี',
     position: 'หัวหน้ากลุ่มสาระการเรียนรู้ภาษาไทย',
     subject: 'ภาษาไทย',
     education: 'ปริญญาโท ภาษาไทย',
