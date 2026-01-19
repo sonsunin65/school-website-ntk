@@ -124,21 +124,21 @@ const Staff = () => {
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
                   <GraduationCap className="w-6 h-6 text-primary" />
                 </div>
-                <div className="text-3xl font-bold text-primary mb-2">45</div>
+                <div className="text-3xl font-bold text-primary mb-2">16</div>
                 <div className="text-muted-foreground">ครูผู้สอน</div>
               </div>
               <div className="bg-card rounded-2xl p-6 text-center shadow-md border border-border">
                 <div className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center mx-auto mb-4">
                   <Users className="w-6 h-6 text-accent" />
                 </div>
-                <div className="text-3xl font-bold text-accent mb-2">15</div>
+                <div className="text-3xl font-bold text-accent mb-2">1</div>
                 <div className="text-muted-foreground">บุคลากรสนับสนุน</div>
               </div>
               <div className="bg-card rounded-2xl p-6 text-center shadow-md border border-border">
                 <div className="w-12 h-12 rounded-full bg-green-500/10 flex items-center justify-center mx-auto mb-4">
                   <Award className="w-6 h-6 text-green-500" />
                 </div>
-                <div className="text-3xl font-bold text-green-500 mb-2">30</div>
+                <div className="text-3xl font-bold text-green-500 mb-2">10</div>
                 <div className="text-muted-foreground">ปริญญาโทขึ้นไป</div>
               </div>
               <div className="bg-card rounded-2xl p-6 text-center shadow-md border border-border">
