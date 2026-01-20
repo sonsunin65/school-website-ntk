@@ -147,7 +147,7 @@ const Curriculum = () => {
                           <div className="bg-secondary/50 rounded-2xl p-6">
                             <h3 className="font-bold text-foreground mb-4 flex items-center gap-2">
                               <BookOpen className="w-5 h-5 text-primary" />
-                              รายวิชาหลัก
+                              พันธกิจ (Mission)
                             </h3>
                             <ul className="space-y-2">
                               {(program.subjects && program.subjects.length > 0) ? (
@@ -165,7 +165,7 @@ const Curriculum = () => {
                           <div className="bg-secondary/50 rounded-2xl p-6">
                             <h3 className="font-bold text-foreground mb-4 flex items-center gap-2">
                               <Award className="w-5 h-5 text-primary" />
-                              อาชีพในอนาคต
+                              เป้าหมาย (Goals)
                             </h3>
                             <ul className="space-y-2">
                               {(program.careers && program.careers.length > 0) ? (
